@@ -1,0 +1,32 @@
+.notes {
+   height: 100vh;
+   background-color: black;
+   color: white;   
+   font-size: larger;
+   padding-top: 10px;
+}
+.notes > h1 {
+   margin-bottom: 2rem;
+   color: white;   
+   text-align: center;
+   padding-top: 2rem;
+}
+
+.microphone{
+   position: absolute;
+   top: 0;
+   right: 0;
+   
+}
+.mic-icon {
+   height: 5rem;
+   width: 5rem;
+   object-fit: contain;
+   border-radius: 999px;   
+}
+.buttons {
+   min-width: 380px;
+   align-items: center;
+}
+
+
